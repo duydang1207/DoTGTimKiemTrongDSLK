@@ -1,0 +1,13 @@
+﻿  DemoCK.cpp
+E:\CNTT\DataStruct\DemoCK\DemoCK\DemoCK.cpp(180,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\CNTT\DataStruct\DemoCK\DemoCK\DemoCK.cpp(182,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\CNTT\DataStruct\DemoCK\DemoCK\DemoCK.cpp(105): warning C4715: 'LinkList::find': not all control paths return a value
+  DemoCK.vcxproj -> E:\CNTT\DataStruct\DemoCK\Debug\DemoCK.exe
